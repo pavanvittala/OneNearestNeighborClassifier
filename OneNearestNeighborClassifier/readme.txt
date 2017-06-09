@@ -1,5 +1,5 @@
 CS 484 HW3 Readme
-Pavan Vittala - G00845186
+Pavan Vittala
 
 How to run code on Zeus:
 1. Copy the zip file I submitted to Blackboard over to Zeus and unzip it
